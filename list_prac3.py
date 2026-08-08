@@ -29,3 +29,14 @@ marks.remove(4)
 print(marks)
 
 
+print(marks[1:3])
+print(marks[-3:-2])
+
+
+print(marks)
+marks.count
+print(marks)
+
+marks.append(87)
+
+print (marks)
