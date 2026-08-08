@@ -20,3 +20,13 @@ str2= ("my name is compare to $ because its is $ realated to $ and $is my love, 
 
 print(str2.count("$"))
 print(str2.replace ("$","avi"))
+
+
+rashi = 98
+annu =97
+
+if rashi >= 90 and annu >=90:
+    print("A+ grade")
+
+else :
+    print ("c grade ")
