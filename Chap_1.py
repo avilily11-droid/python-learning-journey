@@ -10,6 +10,16 @@ b= int(input("second integer number:"))
 
 print("ans is ",a>=b)
 
+a= 4
+b= 5
+c= 9
+
+a+=45
+b-=1
+
+print(a)
+print(b)
+print(c)
 
 
 
