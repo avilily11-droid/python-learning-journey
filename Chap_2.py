@@ -50,4 +50,6 @@ print(type(marks2))
 
                       # LECTURE -1 PART THREE 
 
+                      #  END OF THE LECTURE -1 
+
                       
