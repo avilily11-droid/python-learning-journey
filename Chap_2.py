@@ -1,55 +1,19 @@
+str1 = "avi"
+str2= "  singwalia"
 
-    
+print(str1+str2)
 
-print("Hello, World!")
-side = int (input("enter side of square:"))
+len1=len(str1)
+len2=len(str2)
 
-print("area of square is :", side**2)
+print ("the length of str1 is:",len1,"/n", "the length of str2 is;",len2)
 
+ch = str1[0]
+ch1= str2[6]
+ch2 = str1[2]
 
-length = int(input("enter length of rect:"))
-breath = int(input("enter breath of rect:"))
-
-print ("area of rect is :",length*breath)
-
-
-a= float(input ("enter number first:"))
-b= float(input("enter second value:"))
-
-print("sum of both numbers is:", a+b+a)
+print("character ;",ch,"\n","character b;",ch1,"\n","character a;",ch2)
 
 
-a = (input("enter your name:  "))
+#                  LECTURE -2 PART ONE OF PYTHON SERIES
 
-age = float(input("enter your age:"))
-
-pas = int(input("enter your pass:"))
-
-
-print("welcome,",a)
-print("my age is ",age)
-print("my insta pass is",pas)
-
-marks = int(input("enter marks "))
-
-print(type(marks))
-print(marks)
-
-sen = input(" enter")
-
-print(type(sen))
-print(sen)
-
-marks2 = float(input("enter no."))
-marks2 = int(marks2)
-print(marks2)
-print(type(marks2))
-
-
-
-
-                      # LECTURE -1 PART THREE 
-
-                      #  END OF THE LECTURE -1 
-
-                      

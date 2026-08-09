@@ -42,3 +42,4 @@ if (value %7 ) == 0:
 else:
      print(" no. is very bad ")
 
+#                     LECTURE -2 PART TWO  (IF, ELSE , ELIF)

@@ -1,0 +1,55 @@
+
+    
+
+print("Hello, World!")
+side = int (input("enter side of square:"))
+
+print("area of square is :", side**2)
+
+
+length = int(input("enter length of rect:"))
+breath = int(input("enter breath of rect:"))
+
+print ("area of rect is :",length*breath)
+
+
+a= float(input ("enter number first:"))
+b= float(input("enter second value:"))
+
+print("sum of both numbers is:", a+b+a)
+
+
+a = (input("enter your name:  "))
+
+age = float(input("enter your age:"))
+
+pas = int(input("enter your pass:"))
+
+
+print("welcome,",a)
+print("my age is ",age)
+print("my insta pass is",pas)
+
+marks = int(input("enter marks "))
+
+print(type(marks))
+print(marks)
+
+sen = input(" enter")
+
+print(type(sen))
+print(sen)
+
+marks2 = float(input("enter no."))
+marks2 = int(marks2)
+print(marks2)
+print(type(marks2))
+
+
+
+
+                      # LECTURE -1 PART THREE 
+
+                      #  END OF THE LECTURE -1 
+
+                      
