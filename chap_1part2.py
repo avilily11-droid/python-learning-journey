@@ -19,3 +19,7 @@ b-=0
 c*=6
 
 print(a,'\n' ,b,'\n', c)
+
+
+             #  PART TWO OF LECTURE -1  (OPERATORS)
+             
