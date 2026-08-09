@@ -30,3 +30,11 @@ if rashi >= 90 and annu >=90:
 
 else :
     print ("c grade ")
+  #
+
+
+
+
+  #                       END OF THE LECTURE -2 OF PYTHON SERIES
+
+  
