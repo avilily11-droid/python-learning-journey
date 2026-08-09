@@ -22,6 +22,5 @@ print(b)
 print(c)
 
 
-
-
+                       # LECTURE -1 PART ONE
 
