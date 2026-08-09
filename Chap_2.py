@@ -44,3 +44,10 @@ marks2 = float(input("enter no."))
 marks2 = int(marks2)
 print(marks2)
 print(type(marks2))
+
+
+
+
+                      # LECTURE -1 PART THREE 
+
+                      
