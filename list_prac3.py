@@ -68,5 +68,10 @@ Grade.sort()
 
 print (Grade)
 
+            #  #LECTURE -3 OF PYTHON SERIES (LIST SLICING AND INEXING) 
+
+
+            #             PART -ONE 
+            
 
 
