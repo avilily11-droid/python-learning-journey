@@ -13,3 +13,7 @@ ch1= str2[6]
 ch2 = str1[2]
 
 print("character ;",ch,"\n","character b;",ch1,"\n","character a;",ch2)
+
+
+#                  LECTURE -2 PART ONE OF PYTHON SERIES
+
