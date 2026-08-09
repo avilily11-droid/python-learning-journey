@@ -40,3 +40,33 @@ print(marks)
 marks.append(87)
 
 print (marks)
+
+
+list = [1234321]
+list.copy
+list.sort(reverse=True)
+
+print(list)  # so the list is palindrome
+
+if list== [1234321] :
+     print("yes")
+
+else :
+     print("no")
+
+
+grade = ('C','D','A','A','B','B','A')
+
+print(type(grade))
+print(grade)
+
+print(grade.count('A'))
+
+Grade = ['C','D','A','A','B','B','A']
+
+Grade.sort()
+
+print (Grade)
+
+
+
